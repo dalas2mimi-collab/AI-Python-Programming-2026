@@ -94,7 +94,7 @@ AI Mini Application
 
 | Lab                                     | 实训名称                  | 主要知识与能力                       | 类型   |
 | --------------------------------------- | --------------------- | ----------------------------- | ---- |
-| [Lab 01](./lab01-environment-git/)      | Python开发环境配置与GitHub入门 | Python环境、程序运行、输入输出、Git/GitHub | 基础   |
+| [Lab 01](./lab01-python-basics/)      | Python开发环境配置与GitHub入门 | Python环境、程序运行、输入输出、Git/GitHub | 基础   |
 | [Lab 02](./lab02-input-output/)         | 输入输出与基本数据类型           | 变量、数据类型、输入输出、类型转换             | 基础   |
 | [Lab 03](./lab03-expressions/)          | 运算符与表达式               | 算术运算、表达式、数据计算                 | 基础   |
 | [Lab 04](./lab04-branching/)            | 条件分支程序设计              | `if`、`if-else`、多分支、条件组合       | 基础   |
