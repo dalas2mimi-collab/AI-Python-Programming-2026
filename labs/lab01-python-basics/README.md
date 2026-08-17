@@ -23,24 +23,53 @@
 
 ```bash
 python --version
+```
 
-完成要求：
+如果系统中同时安装了多个 Python 版本，也可以尝试：
+
+```bash
+python3 --version
+```
+
+正常情况下应显示当前安装的 Python 版本，例如：
+
+```text
+Python 3.x.x
+```
+
+继续执行：
+
+```bash
+pip --version
+```
+
+确认 Python 包管理工具可以正常使用。
+
+### 完成要求
+
 记录：
 
-Python版本
-pip版本
-使用的开发工具
-操作系统
-
+- Python版本
+- pip版本
+- 使用的开发工具
+- 操作系统
 
 ---
 
 ## 四、任务2：编写第一个 Python 程序
+
 创建文件：
+
+```text
 hello.py
+```
+
 输入以下程序：
+
+```python
 print("Hello, Python!")
 print("欢迎学习高级语言程序设计实训课程！")
+```
 
 运行程序并观察执行结果。
 
